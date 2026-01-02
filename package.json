@@ -74,7 +74,6 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@module-federation/nextjs-mf": "^8.8.50",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
